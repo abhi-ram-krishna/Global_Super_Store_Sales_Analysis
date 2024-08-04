@@ -11,7 +11,7 @@ The **Global Superstore Sales Analysis** repository showcases Power BI reports g
 ## Reports - Power BI
 The ![Global Store Analysis.pbix](https://github.com/abhi-ram-krishna/Global_Super_Store_Sales_Analysis/blob/48982b8e13161c5c0efa2c65837f27a27d690b15/Global%20Store%20Analysis.pbix) file includes a report containing three pages: Overview, Detailed Sales Report and Tabular Data.
 
-**The Overview Page**: this page prominently displays essential metrics such as total orders, total sales, total profit, total units sold, total number of customers, and  total number of products. Doughnut chart exhibiting the distribution of orders by ship modes in included as per the requirement from the stakeholders. Charts year wise sales and profit, distribution of sales by segment, top 3 countries by sales, and top 3 products by sales are also present.
+![report](https://github.com/user-attachments/assets/20504a58-c881-4b18-b2bf-04a89c030359)**The Overview Page**: this page prominently displays essential metrics such as total orders, total sales, total profit, total units sold, total number of customers, and  total number of products. Doughnut chart exhibiting the distribution of orders by ship modes in included as per the requirement from the stakeholders. Charts year wise sales and profit, distribution of sales by segment, top 3 countries by sales, and top 3 products by sales are also present.
 
 **The Detailed Sales Report Page**: as the name suggests this page contains charts that showcases distribution of sales by market, region, country and city.
 
