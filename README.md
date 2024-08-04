@@ -9,7 +9,7 @@
 3.  *Returns* : Returned (yes/No), Order Id, and Market
 
 ## Reports - Power BI
-The https://github.com/abhi-ram-krishna/Global_Super_Store_Sales_Analysis/blob/48982b8e13161c5c0efa2c65837f27a27d690b15/Global%20Store%20Analysis.pbix file includes a report containing three pages: Overview, Detailed Sales Report and Tabular Data.
+The ![Global Store Analysis.pbix](https://github.com/abhi-ram-krishna/Global_Super_Store_Sales_Analysis/blob/48982b8e13161c5c0efa2c65837f27a27d690b15/Global%20Store%20Analysis.pbix) file includes a report containing three pages: Overview, Detailed Sales Report and Tabular Data.
 - The *Overview* report contains 
 
 ## Dashboard
